@@ -22,7 +22,7 @@ namespace Lesson1
             Console.WriteLine(number);
             int number2 = 15;
             Console.WriteLine(15);
-
+            Console.Writeline();
             number = 10 * 2345 - 567;
             number = 10 - number;
             Console.WriteLine();
